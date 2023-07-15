@@ -1,0 +1,3 @@
+[submodule "vocode-python"]
+	path = vocode-python
+	url = git@github.com:swethmandava/vocode-python.git
